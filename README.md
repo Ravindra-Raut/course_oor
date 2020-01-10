@@ -1,5 +1,5 @@
-Live Open Online Introduction to R Course
-=========================================
+Open Online Introduction to R Course
+====================================
 
 ## General Information
 
