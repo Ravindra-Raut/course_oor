@@ -3,12 +3,28 @@ Live Open Online Introduction to R Course
 
 ## General Information
 
-| Course Dates | 9-10 March, 2020 |
-| ------------ | ---------------- |
-| **Course Times** | **9:30 - 17:00 CET (UTC/GMT+1)** |
-| **Course Location** | **online (live stream)** |
-| **Registration** | **not necessary** |
-| **Course Fee** | **none (this course is free!)** |
+<table>
+<tr>
+   <td>Course Dates</td>
+   <td>9-10 March, 2020</td>
+</tr>
+<tr>
+   <td>Course Times</td>
+   <td>9:30 - 17:00 CET (UTC/GMT+1)</td>
+</tr>
+<tr>
+   <td>Course Location</td>
+   <td>online (live stream)</td>
+</tr>
+<tr>
+   <td>Registration</td>
+   <td>not necessary</td>
+</tr>
+<tr>
+   <td>Course Fee</td>
+   <td>none (this course is free!)</td>
+</tr>
+</table>
 
 ## General Information
 
