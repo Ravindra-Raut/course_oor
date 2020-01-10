@@ -99,3 +99,11 @@ I also will not be able to provide statistical support about specific questions 
 I reserve the option to end the course at any point (e.g., due to low attendance, technical problems). Also, depending on things go (e.g., if there are technical problems, lots of questions), I might not be able to cover all topics planned.
 
 I understand that the course will primarily target those in timezones with small deviations from UTC/GMT (i.e., Europe and Africa). If the course is well received, I will consider repeating the course and then starting it in the afternoon (my local time), so that people from North/South America can more easily attend.
+
+## R Code
+
+to be posted later ...
+
+## Datasets
+
+to be posted later ...
