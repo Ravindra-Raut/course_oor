@@ -96,7 +96,7 @@ In the 'in person' courses that I teach, I often end up troubleshooting some gen
 
 I also will not be able to provide statistical support about specific questions you have about your own data analysis needs.
 
-I reserve the option to end the course at any point (e.g., due to low attendance, technical problems). Also, depending on things go (e.g., if there are technical problems, lots of questions), I might not be able to cover all topics planned.
+I reserve the option to end the course at any point (e.g., due to low attendance, technical problems). Also, depending on how things go (e.g., if there are technical problems, lots of questions), I might not be able to cover all topics planned.
 
 I understand that the course will primarily target those in timezones with small deviations from UTC/GMT (i.e., Europe and Africa). If the course is well received, I will consider repeating the course and then starting it in the afternoon (my local time), so that people from North/South America can more easily attend.
 
