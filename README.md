@@ -62,13 +62,13 @@ The course is aimed at researchers, (Master and PhD level) students, data analys
 
 ## Course Format
 
-The course will be taught online as a live stream via the live streaming platform Twitch. Once the stream goes live (around 9:00), simply go to https://www.twitch.tv/wviechtb to start watching.
+The course will be taught online as a live stream via the live streaming platform Twitch. Once the stream goes live (around 9:00 on each course day), simply go to https://www.twitch.tv/wviechtb to start watching.
 
-For the most part, the format of the course will be quite simple: I will provide you with R code that we will then go through step-by-step. Along the way, I'll explain how things work and answer questions as necessary. The code will be posted at: https://github.com/wviechtb/course_oor.
+For the most part, the format of the course will be quite simple: I will provide you with R code that we will then go through step-by-step. Along the way, I'll explain how things work and answer questions as necessary. The code will be posted at: https://github.com/wviechtb/course_oor/code.
 
 ## How to Prepare for the Course
 
-You will need a computer with the current version of R installed. You can download R from the Comprehensive R Archive Network (CRAN) at https://cran.r-project.org/. Follow the appropriate "Download R" link depending on your operating system (OS) and follow the instructions for downloading and installing R.
+You will need a computer with the current version of R installed. You can download R from the Comprehensive R Archive Network (CRAN) at https://cran.r-project.org/. Follow the appropriate "Download R" link depending on your operating system (OS) and follow the instructions for downloading and installing R. If you already have R installed, please check that it is the current (or a relatively current) version. If not, please update.
 
 Although not strictly necessary, it will be useful to also install an integrated development environment (IDE) for R. A popular choice these days is RStudio. So, unless you already have a different setup, download the appropriate installer of RStudio for your OS from https://rstudio.com/products/rstudio/download/#download and install in the usual manner.
 
@@ -99,11 +99,3 @@ I also will not be able to provide statistical support about specific questions 
 I reserve the option to end the course at any point (e.g., due to low attendance, technical problems). Also, depending on how things go (e.g., if there are technical problems, lots of questions), I might not be able to cover all topics planned.
 
 I understand that the course will primarily target those in timezones with small deviations from UTC/GMT (i.e., Europe and Africa). If the course is well received, I will consider repeating the course and then starting it in the afternoon (my local time), so that people from North/South America can more easily attend.
-
-## R Code
-
-to be posted later ...
-
-## Datasets
-
-to be posted later ...
