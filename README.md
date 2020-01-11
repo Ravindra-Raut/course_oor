@@ -64,7 +64,7 @@ The course is aimed at researchers, (Master and PhD level) students, data analys
 
 The course will be taught online as a live stream via the live streaming platform Twitch. Once the stream goes live (around 9:00 on each course day), simply go to https://www.twitch.tv/wviechtb to start watching.
 
-For the most part, the format of the course will be quite simple: I will provide you with R code that we will then go through step-by-step. Along the way, I'll explain how things work and answer questions as necessary. The code will be posted at: https://github.com/wviechtb/course_oor/code.
+For the most part, the format of the course will be quite simple: I will provide you with R code that we will then go through step-by-step. Along the way, I'll explain how things work and answer questions as necessary. The code will be posted at: https://github.com/wviechtb/course_oor/tree/master/code.
 
 ## How to Prepare for the Course
 
