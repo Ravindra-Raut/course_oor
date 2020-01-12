@@ -14,7 +14,7 @@ Open Online Introduction to R Course
 </tr>
 <tr>
    <td>Course Location</td>
-   <td>online (live stream)</td>
+   <td>online / live stream</td>
 </tr>
 <tr>
    <td>Registration</td>
@@ -92,9 +92,7 @@ Any type of harassment or hateful conduct, inappropriate commenting, or disrupti
 
 While I have a lot of experience teaching courses 'in person', this will be the first time I am teaching a course in this format. Please be gentle if things don't go entirely smoothly the first time around.
 
-In the 'in person' courses that I teach, I often end up troubleshooting some general computer problems for one or multiple course participants. I will not be able to do this in this course.
-
-I also will not be able to provide statistical support about specific questions you have about your own data analysis needs.
+In the 'in person' courses that I teach, I often end up troubleshooting some general computer problems for one or multiple course participants. I will not be able to do this in this course. I also will not be able to provide statistical support or answer questions you have about your own data analysis needs.
 
 I reserve the option to end the course at any point (e.g., due to low attendance, technical problems). Also, depending on how things go (e.g., if there are technical problems, lots of questions), I might not be able to cover all topics planned.
 
