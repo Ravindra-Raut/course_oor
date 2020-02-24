@@ -1,16 +1,15 @@
-Open Online Introduction to R Course
-====================================
+# Open Online Introduction to R Course
 
 ## General Information
 
 <table>
 <tr>
    <td>Course Dates</td>
-   <td>9-10 March, 2020</td>
+   <td>2-3 April, 2020</td>
 </tr>
 <tr>
    <td>Course Times</td>
-   <td>9:30 - 17:00 CET (UTC/GMT+1)</td>
+   <td>9:00 - 17:00 CET (UTC/GMT+1)</td>
 </tr>
 <tr>
    <td>Course Location</td>
@@ -44,9 +43,9 @@ In this course, we will cover:
 * add-on packages (how to find, install, and work with them)
 * how/where to obtain help when you get stuck
 * basic programming structures (e.g., loops, if-else statements)
-* how R 'works' (functions, classes, methods, oh my!)
 * writing documents with Rmarkdown
 * and depending on time and interest various miscellaneous topics:
+  * how R 'works' (functions, classes, methods, oh my!)
   * psychometrics (reliability and factor analysis)
   * merging datasets
   * working with 'long format' datasets
@@ -62,9 +61,15 @@ The course is aimed at researchers, (Master and PhD level) students, data analys
 
 ## Course Format
 
-The course will be taught online as a live stream via the live streaming platform Twitch. Once the stream goes live (around 9:00 on each course day), simply go to https://www.twitch.tv/wviechtb to start watching.
+The course will be taught online as a live stream via the live streaming platform Twitch. Once the stream goes live (around 8:45 on each course day), simply go to https://www.twitch.tv/wviechtb to start watching.
 
-For the most part, the format of the course will be quite simple: I will provide you with R code that we will then go through step-by-step. Along the way, I'll explain how things work and answer questions as necessary. The code will be posted at: https://github.com/wviechtb/course_oor/tree/master/code.
+For the most part, the format of the course will be quite simple: I will provide you with R code that we will then go through step-by-step. Along the way, I'll explain how things work and answer questions as necessary. The code will be posted at:
+
+* http://www.wvbauer.com/doku.php/course_oor#r_code
+* https://github.com/wviechtb/course_oor/tree/master/code.
+* https://gitlab.com/wviechtb/course_oor/-/tree/master/code
+
+I provide the code at several locations to create some redundancy in case one of the links becomes inaccessible.
 
 ## How to Prepare for the Course
 
@@ -72,11 +77,11 @@ You will need a computer with the current version of R installed. You can downlo
 
 Although not strictly necessary, it will be useful to also install an integrated development environment (IDE) for R. A popular choice these days is RStudio. So, unless you already have a different setup, download the appropriate installer of RStudio for your OS from https://rstudio.com/products/rstudio/download/#download and install in the usual manner.
 
-You do not need to have a Twitch account to watch the stream, but if you would like to post comments or questions via the chat (see below), then you do need to be signed in. To create a Twitch account, go to https://www.twitch.tv/, click on "Sign Up", and follow the instructions. Make sure you also verify your email as part of the registration procedure.
+You do not need to have a Twitch account to watch the stream, but if you would like to post comments or questions via the chat (see below), then you do need to be signed in. To create a Twitch account, go to https://www.twitch.tv/, click on "Sign Up", and follow the instructions. Make sure you also verify your email address as part of the registration procedure (otherwise you cannot use the chat).
 
-You might also want to think a bit ahead of time how you will arrange your desktop while following the course. You will want to have both your browser (for following the live stream) and R/RStudio open at the same time and ideally put them side-by-side (otherwise, you will have to switch back and forth between these windows, which will quickly become rather tedious). So, unless you have a rather large monitor, two computers/monitors (i.e., one for the stream, one for R/RStudio) would be ideal.
+You might also want to think a bit ahead of time how you will arrange your desktop while following the course. You will want to have both your browser (for following the live stream) and R/RStudio open at the same time and ideally put them side-by-side (otherwise, you will have to switch back and forth between these windows, which will become tedious rather quickly). So, unless you have a rather large monitor, two computers/monitors (i.e., one for the stream, one for R/RStudio) would be ideal.
 
-Just as an idea, you could also consider following the course together with other people as a group and set up a computer/projector to show the stream (everybody should still have their own computer/laptop to follow along).
+Just as an idea, you could also consider following the course together with other people as a group and set up a computer/projector to show the stream, while everybody can work on their own computer/laptop to follow along.
 
 ## Chat (Purpose and Rules)
 
@@ -90,13 +95,37 @@ Any type of harassment or hateful conduct, inappropriate commenting, or disrupti
 
 ## Other Things / Notes / FAQs
 
-While I have a lot of experience teaching courses 'in person', this will be the first time I am teaching a course in this format. Please be gentle if things don't go entirely smoothly the first time around.
+Some other notes and frequently asked questions that may come up:
 
-In the 'in person' courses that I teach, I often end up troubleshooting some general computer problems for one or multiple course participants. I will not be able to do this in this course. I also will not be able to provide statistical support or answer questions you have about your own data analysis needs.
+* While I have a lot of experience teaching courses 'in person', this will be the first time I am teaching a course in this format. Please be gentle if things don't go completely smoothly the first time around.
 
-I reserve the option to end the course at any point (e.g., due to low attendance, technical problems). Also, depending on how things go (e.g., if there are technical problems, lots of questions), I might not be able to cover all topics planned.
+* In the 'in person' courses that I teach, I often end up troubleshooting some general computer problems for one or multiple course participants. I will not be able to do this in this course. I also cannot provide statistical support or answer questions you have about your own data analysis needs.
 
-I understand that the course will primarily target those in timezones with small deviations from UTC/GMT (i.e., Europe and Africa). If the course is well received, I will consider repeating the course and then starting it in the afternoon (my local time), so that people from North/South America can more easily attend.
+* I reserve the option to end the course at any point (e.g., due to low attendance, technical problems). Also, depending on how things go (e.g., if there are technical problems, lots of questions), I might not be able to cover all topics planned.
+
+* If, for whatever reason, the stream goes down (and I cannot reconnect), I will post a note here.
+
+* I understand that the course will primarily target those in timezones with small deviations from UTC/GMT (i.e., Europe and Africa). If the course is well received, I will consider repeating the course and then starting it in the afternoon (my local time), so that people from North/South America can more easily attend.
+
+* For people affiliated with Maastricht University: You might want to consider following the [[https://www.maastrichtuniversity.nl/education/introduction-r|Introduction to R Course]] I teach for the university (high attendance / interest in this course shows the university the importance of keeping the course in its curriculum and you also get the benefits from 'in person' interactions).
+
+## Relevant Links
+
+The following are relevant links for the course itself:
+
+* [https://www.twitch.tv/wviechtb](Stream)
+* [https://www.twitch.tv/popout/wviechtb/chat?popout=](Chat) (in case you have another computer showing the stream, but want to be able to ask questions)
+* [http://www.wvbauer.com/doku.php/course_oor#r_code](Code on Course Website)
+* [https://github.com/wviechtb/course_oor/tree/master/code](Code on GitHub)
+* [https://gitlab.com/wviechtb/course_oor/-/tree/master/code](Code on GitLab)
+
+The following are relevant links in general:
+
+* [https://www.r-project.org/](R Project Website)
+* [https://cran.r-project.org/](CRAN Website)
+* [https://www.rstudio.com/](RStudio)
+* [https://stats.stackexchange.com/tour](Cross Validated)
+* [https://stackoverflow.com/tour](Stack Overflow)
 
 ## License
 
