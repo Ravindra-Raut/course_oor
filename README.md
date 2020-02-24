@@ -107,25 +107,25 @@ Some other notes and frequently asked questions that may come up:
 
 * I understand that the course will primarily target those in timezones with small deviations from UTC/GMT (i.e., Europe and Africa). If the course is well received, I will consider repeating the course and then starting it in the afternoon (my local time), so that people from North/South America can more easily attend.
 
-* For people affiliated with Maastricht University: You might want to consider following the [https://www.maastrichtuniversity.nl/education/introduction-r](Introduction to R Course) I teach for the university (high attendance / interest in this course shows the university the importance of keeping the course in its curriculum and you also get the benefits from 'in person' interactions).
+* For people affiliated with Maastricht University: You might want to consider following the [Introduction to R Course](https://www.maastrichtuniversity.nl/education/introduction-r]) I teach for the university (high attendance / interest in this course shows the university the importance of keeping the course in its curriculum and you also get the benefits from 'in person' interactions).
 
 ## Relevant Links
 
 The following are relevant links for the course itself:
 
-* [https://www.twitch.tv/wviechtb](Stream)
-* [https://www.twitch.tv/popout/wviechtb/chat?popout=](Chat) (in case you have another computer showing the stream, but want to ask questions)
-* [http://www.wvbauer.com/doku.php/course_oor#r_code](Code on Course Website)
-* [https://github.com/wviechtb/course_oor/tree/master/code](Code on GitHub)
-* [https://gitlab.com/wviechtb/course_oor/-/tree/master/code](Code on GitLab)
+* [Stream](https://www.twitch.tv/wviechtb])
+* [Chat](https://www.twitch.tv/popout/wviechtb/chat?popout=) (in case you have another computer showing the stream, but want to ask questions)
+* [Code on Course Website](http://www.wvbauer.com/doku.php/course_oor#r_code)
+* [Code on GitHub](https://github.com/wviechtb/course_oor/tree/master/code)
+* [Code on GitLab](https://gitlab.com/wviechtb/course_oor/-/tree/master/code)
 
 The following are relevant links in general:
 
-* [https://www.r-project.org/](R Project Website)
-* [https://cran.r-project.org/](CRAN Website)
-* [https://www.rstudio.com/](RStudio)
-* [https://stats.stackexchange.com/tour](Cross Validated)
-* [https://stackoverflow.com/tour](Stack Overflow)
+* [R Project Website](https://www.r-project.org/)
+* [CRAN Website](https://cran.r-project.org/)
+* [RStudio Website](https://www.rstudio.com/)
+* [Cross Validated](https://stats.stackexchange.com/tour)
+* [Stack Overflow](https://stackoverflow.com/tour)
 
 ## License
 
