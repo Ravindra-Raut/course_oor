@@ -66,7 +66,7 @@ The course will be taught online as a live stream via the live streaming platfor
 For the most part, the format of the course will be quite simple: I will provide you with R code that we will then go through step-by-step. Along the way, I'll explain how things work and answer questions as necessary. The code will be posted at:
 
 * http://www.wvbauer.com/doku.php/course_oor#r_code
-* https://github.com/wviechtb/course_oor/tree/master/code.
+* https://github.com/wviechtb/course_oor/tree/master/code
 * https://gitlab.com/wviechtb/course_oor/-/tree/master/code
 
 I provide the code at several locations to create some redundancy in case one of the links becomes inaccessible.
@@ -107,14 +107,14 @@ Some other notes and frequently asked questions that may come up:
 
 * I understand that the course will primarily target those in timezones with small deviations from UTC/GMT (i.e., Europe and Africa). If the course is well received, I will consider repeating the course and then starting it in the afternoon (my local time), so that people from North/South America can more easily attend.
 
-* For people affiliated with Maastricht University: You might want to consider following the [[https://www.maastrichtuniversity.nl/education/introduction-r|Introduction to R Course]] I teach for the university (high attendance / interest in this course shows the university the importance of keeping the course in its curriculum and you also get the benefits from 'in person' interactions).
+* For people affiliated with Maastricht University: You might want to consider following the [https://www.maastrichtuniversity.nl/education/introduction-r](Introduction to R Course) I teach for the university (high attendance / interest in this course shows the university the importance of keeping the course in its curriculum and you also get the benefits from 'in person' interactions).
 
 ## Relevant Links
 
 The following are relevant links for the course itself:
 
 * [https://www.twitch.tv/wviechtb](Stream)
-* [https://www.twitch.tv/popout/wviechtb/chat?popout=](Chat) (in case you have another computer showing the stream, but want to be able to ask questions)
+* [https://www.twitch.tv/popout/wviechtb/chat?popout=](Chat) (in case you have another computer showing the stream, but want to ask questions)
 * [http://www.wvbauer.com/doku.php/course_oor#r_code](Code on Course Website)
 * [https://github.com/wviechtb/course_oor/tree/master/code](Code on GitHub)
 * [https://gitlab.com/wviechtb/course_oor/-/tree/master/code](Code on GitLab)
