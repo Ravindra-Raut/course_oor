@@ -27,7 +27,7 @@
 
 ## General Information
 
-R is a programming language and software environment for carrying out computations, manipulating and analyzing data, and creating various types of plots and graphics (see the R project website at https://www.r-project.org/ for more info). R has become the 'lingua franca of statistics' and the software of choice for analyzing data in various disciplines. However, for many researchers, getting up and running with R remains a hurdle due to the command-driven nature of the software. The purpose of this course is to lay the necessary foundation for becoming a proficient R user.
+R is a programming language and software environment for carrying out computations, manipulating and analyzing data, and creating various types of plots and graphics (see the [R project website](https://www.r-project.org/) for more info). R has become the 'lingua franca of statistics' and the software of choice for analyzing data in various disciplines. However, for many researchers, getting up and running with R remains a hurdle due to the command-driven nature of the software. The purpose of this course is to lay the necessary foundation for becoming a proficient R user.
 
 In this course, we will cover:
 
@@ -61,23 +61,17 @@ The course is aimed at researchers, (Master and PhD level) students, data analys
 
 ## Course Format
 
-The course will be taught online as a live stream via the live streaming platform Twitch. Once the stream goes live (around 8:45 on each course day), simply go to https://www.twitch.tv/wviechtb to start watching.
+The course will be taught online as a live stream via the live streaming platform Twitch. Once the stream goes live (around 8:45 on each course day), simply go to [this link](https://www.twitch.tv/wviechtb) to start watching.
 
-For the most part, the format of the course will be quite simple: I will provide you with R code that we will then go through step-by-step. Along the way, I'll explain how things work and answer questions as necessary. The code will be posted at:
-
-* http://www.wvbauer.com/doku.php/course_oor#r_code
-* https://github.com/wviechtb/course_oor/tree/master/code
-* https://gitlab.com/wviechtb/course_oor/-/tree/master/code
-
-I provide the code at several locations to create some redundancy in case one of the links becomes inaccessible.
+For the most part, the format of the course will be quite simple: I will provide you with R code that we will then go through step-by-step. Along the way, I'll explain how things work and answer questions as necessary. The code will be posted on the [course website](http://www.wvbauer.com/doku.php/course_oor#r_code) (and on [GitHub](https://github.com/wviechtb/course_oor/tree/master/code) and [GitLab](https://gitlab.com/wviechtb/course_oor/-/tree/master/code)). I provide the code at several locations to create some redundancy in case one of the links becomes inaccessible.
 
 ## How to Prepare for the Course
 
-You will need a computer with the current version of R installed. You can download R from the Comprehensive R Archive Network (CRAN) at https://cran.r-project.org/. Follow the appropriate "Download R" link depending on your operating system (OS) and follow the instructions for downloading and installing R. If you already have R installed, please check that it is the current (or a relatively current) version. If not, please update.
+You will need a computer with the current version of R installed. You can download R from the [Comprehensive R Archive Network](https://cran.r-project.org/) (CRAN). Follow the appropriate "Download R" link depending on your operating system (OS) and follow the instructions for downloading and installing R. If you already have R installed, please check that it is the current (or a relatively current) version. If not, please update.
 
-Although not strictly necessary, it will be useful to also install an integrated development environment (IDE) for R. A popular choice these days is RStudio. So, unless you already have a different setup, download the appropriate installer of RStudio for your OS from https://rstudio.com/products/rstudio/download/#download and install in the usual manner.
+Although not strictly necessary, it will be useful to also install an integrated development environment (IDE) for R. A popular choice these days is RStudio. So, unless you already have a different setup, download the appropriate installer of RStudio for your OS from [here](https://rstudio.com/products/rstudio/download/#download) and install in the usual manner.
 
-You do not need to have a Twitch account to watch the stream, but if you would like to post comments or questions via the chat (see below), then you do need to be signed in. To create a Twitch account, go to https://www.twitch.tv/, click on "Sign Up", and follow the instructions. Make sure you also verify your email address as part of the registration procedure (otherwise you cannot use the chat).
+You do not need to have a Twitch account to watch the stream, but if you would like to post comments or questions via the chat (see below), then you do need to be signed in. To create an account, go to [Twitch](https://www.twitch.tv/), click on "Sign Up", and follow the instructions. Make sure you also verify your email address as part of the registration procedure (otherwise you cannot use the chat).
 
 You might also want to think a bit ahead of time how you will arrange your desktop while following the course. You will want to have both your browser (for following the live stream) and R/RStudio open at the same time and ideally put them side-by-side (otherwise, you will have to switch back and forth between these windows, which will become tedious rather quickly). So, unless you have a rather large monitor, two computers/monitors (i.e., one for the stream, one for R/RStudio) would be ideal.
 
@@ -113,7 +107,7 @@ Some other notes and frequently asked questions that may come up:
 
 The following are relevant links for the course itself:
 
-* [Stream](https://www.twitch.tv/wviechtb])
+* [Stream at Twitch](https://www.twitch.tv/wviechtb])
 * [Chat](https://www.twitch.tv/popout/wviechtb/chat?popout=) (in case you have another computer showing the stream, but want to ask questions)
 * [Code on Course Website](http://www.wvbauer.com/doku.php/course_oor#r_code)
 * [Code on GitHub](https://github.com/wviechtb/course_oor/tree/master/code)
