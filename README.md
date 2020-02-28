@@ -73,7 +73,7 @@ Although not strictly necessary, it will be useful to also install an integrated
 
 You do not need to have a Twitch account to watch the stream, but if you would like to post comments or questions via the chat (see below), then you do need to be signed in. To create an account, go to [Twitch](https://www.twitch.tv/), click on "Sign Up", and follow the instructions. Make sure you also verify your email address as part of the registration procedure (otherwise you cannot use the chat).
 
-You might also want to think a bit ahead of time how you will arrange your desktop while following the course. You will want to have both your browser (for following the live stream) and R/RStudio open at the same time and ideally put them side-by-side (otherwise, you will have to switch back and forth between these windows, which will become tedious rather quickly). So, unless you have a rather large monitor, two computers/monitors (i.e., one for the stream, one for R/RStudio) would be ideal.
+You might also want to think a bit ahead of time how you will arrange your desktop while following the course. You will want to have both your browser (for following the live stream) and R/RStudio open at the same time and ideally put them side-by-side (otherwise, you will have to switch back and forth between these windows, which will become tedious rather quickly). So, unless you have a large monitor, two computers/monitors (i.e., one for the stream, one for R/RStudio) would be ideal.
 
 Just as an idea, you could also consider following the course together with other people as a group and set up a computer/projector to show the stream, while everybody can work on their own computer/laptop to follow along.
 
@@ -83,7 +83,7 @@ Usually, I teach courses 'in person' and there are various benefits from being i
 
 If possible, I will also be happy to answer 'but how do I do this or that?' type questions (assuming they relate to what is being covered in the course at that moment). However, if there are too many questions of this type at the same time, the chat will become unusable, so please consider carefully whether it is appropriate to ask such questions at particular moments.
 
-Note that there is a slight delay when live streaming (somewhere around 10 seconds), so keep that in mind when asking questions. This can also make 'back-and-forth' questioning difficult (e.g., if I have to ask for some clarification about your question).
+Note that there is a slight delay when live streaming (between a few and sometimes up to 10-20 seconds), so keep that in mind when asking questions. This can also make 'back-and-forth' questioning difficult (e.g., if I have to ask for some clarification about your question).
 
 Any type of harassment or hateful conduct, inappropriate commenting, or disruptive behavior will not be tolerated and will lead to temporary chat timeouts or to being banned from the chat permanently.
 
