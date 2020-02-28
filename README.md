@@ -67,7 +67,7 @@ For the most part, the format of the course will be quite simple: I will provide
 
 ## How to Prepare for the Course
 
-You will need a computer with the current version of R installed. You can download R from the [Comprehensive R Archive Network](https://cran.r-project.org/) (CRAN). Follow the appropriate "Download R" link depending on your operating system (OS) and follow the instructions for downloading and installing R. If you already have R installed, please check that it is the current (or a relatively current) version. If not, please update.
+You will need a computer with the current version of R installed. You can download R from the [Comprehensive R Archive Network](https://cran.r-project.org/) (CRAN). Follow the appropriate "Download R" link depending on your operating system (OS) and follow the instructions for downloading and installing R. If you already have R installed, please check that it is the current (or a relatively current) version (you can check what the 'latest release' of R is by going to [CRAN](https://cran.r-project.org/)). If not, please update.
 
 Although not strictly necessary, it will be useful to also install an integrated development environment (IDE) for R. A popular choice these days is RStudio. So, unless you already have a different setup, download the appropriate installer of RStudio for your OS from [here](https://rstudio.com/products/rstudio/download/#download) and install in the usual manner.
 
