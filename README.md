@@ -49,10 +49,10 @@ In this course, we will cover:
   * psychometrics (reliability and factor analysis)
   * merging datasets
   * working with 'long format' datasets
-  * string manipulation
   * multilevel / mixed-effects models
   * survival analysis and Cox models
   * non-parametric methods
+  * string manipulations
   * ...
 
 **Note:** When discussing statistical methods/models, emphasis will be on the general syntax as used in R and less on the statistical details of the various procedures (i.e., this is not a 'stats' course, it is a 'how to do stats with R' course). Hence, some familiarity with basic statistical concepts and methods is helpful when following the course.
