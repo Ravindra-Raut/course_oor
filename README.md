@@ -97,7 +97,7 @@ Some other notes and frequently asked questions that may come up:
 
 * I reserve the option to end the course at any point (e.g., due to low attendance, technical problems). Also, depending on how things go (e.g., if there are technical problems, lots of questions), I might not be able to cover all topics planned.
 
-* If, for whatever reason, the stream goes down (and I cannot reconnect and get it running again), I will post a note here.
+* If, for whatever reason, the stream goes down (and I cannot reconnect and get it running again), I will post a note at the top of this page.
 
 * I cannot provide 'course certificates' or some other form of certification that you have participated in the course.
 
