@@ -9,7 +9,7 @@
 </tr>
 <tr>
    <td>Course Times</td>
-   <td>9:00 - 17:00 CEST (UTC/GMT+2) ([check local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200402T090000&p1=1307))</td>
+   <td>9:00 - 17:00 CEST (UTC/GMT+2) (<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200402T090000&p1=1307">check local time</a>)
 </tr>
 <tr>
    <td>Course Location</td>
