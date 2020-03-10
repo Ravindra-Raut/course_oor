@@ -61,7 +61,7 @@ The course is aimed at researchers, (Master and PhD level) students, data analys
 
 ## Course Format
 
-The course will be taught online as a live stream via the live streaming platform Twitch. Once the stream goes live (around 8:45 on each course day), simply go to [this link](https://www.twitch.tv/wviechtb) to start watching.
+The course will be taught online as a live stream via the streaming platform Twitch. Once the stream goes live (around 8:45 on each course day), simply go to [this link](https://www.twitch.tv/wviechtb) to start watching.
 
 For the most part, the format of the course will be quite simple: I will provide you with R code that we will then go through step-by-step. Along the way, I'll explain how things work and answer questions as necessary. The code will be posted on the [course website](http://www.wvbauer.com/doku.php/course_oor#r_code) (and on [GitHub](https://github.com/wviechtb/course_oor/tree/master/code) and [GitLab](https://gitlab.com/wviechtb/course_oor/-/tree/master/code)). I provide the code at several locations to create some redundancy in case one of the links becomes inaccessible.
 
@@ -101,7 +101,9 @@ Some other notes and frequently asked questions that may come up:
 
 * I cannot provide 'course certificates' or some other form of certification that you have participated in the course.
 
-* I understand that the course will primarily target those in timezones with small deviations from UTC/GMT (i.e., Europe and Africa). If the course is well received, I will consider repeating the course and then starting it in the afternoon (my local time), so that people from North/South America can more easily attend.
+* The stream will not be recorded. The whole point is that this is an interactive live stream, which sets it apart from online courses that use pre-recorded videos or any of the thousands of YouTube videos that teach R. If I wanted to create the latter, I would script the entire video (which is not compatible with the dynamics of an interactive live stream) and would have to do a lot of post-processing.
+
+* Related to the previous point: I understand that the course will primarily target those in timezones with small deviations from UTC/GMT (i.e., Europe and Africa). If the course is well received, I will consider repeating the course and then starting it in the afternoon (my local time), so that people from North/South America can more easily attend.
 
 * For people affiliated with Maastricht University: You might want to consider following the [Introduction to R Course](https://www.maastrichtuniversity.nl/education/introduction-r) I teach for the university (high attendance / interest in this course shows the university the importance of keeping the course in its curriculum and you also get the benefits from 'in person' interactions).
 
