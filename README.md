@@ -105,7 +105,7 @@ Some other notes and frequently asked questions that may come up:
 
 * Related to the previous point: I understand that the course will primarily target those in timezones with small deviations from UTC/GMT (i.e., Europe and Africa). If the course is well received, I will consider repeating the course and then starting it in the afternoon (my local time), so that people from North/South America can more easily attend.
 
-* And related to the previous point: The course starts at 9:00 CEST (which is UCT/GMT+2). To figure out what the start time will be in your own timezone, you can go [here](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200402T090000&p1=1307).
+* And related to the previous point: The course starts each day at 9:00 CEST (which is UCT/GMT+2). To figure out what the start time will be in your own timezone, you can go [here](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200402T090000&p1=1307).
 
 * For people affiliated with Maastricht University: You might want to consider following the [Introduction to R Course](https://www.maastrichtuniversity.nl/education/introduction-r) I teach for the university (high attendance / interest in this course shows the university the importance of keeping the course in its curriculum and you also get the benefits from 'in person' interactions).
 
