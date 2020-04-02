@@ -59,6 +59,34 @@ In this course, we will cover:
 
 The course is aimed at researchers, (Master and PhD level) students, data analysts/scientist, and essentially anybody interested in learning how to work with R.
 
+## Course Schedule
+
+**Note**: This schedule is tentative. The starting and ending times of the course are quite definite, but everything in between is subject to change. Also, shorter breaks are not explicitly indicated in the schedule below, but will happen throughout the days (essentially between each topic).
+
+#### Day 1
+
+| Time        | Topic                |
+| ----------- | -------------------- |
+| 09:00-10:00 | Introductory Lecture |
+| 10:00-11:00 | Interacting with R |
+| 11:00-12:00 | Basic Data Structures |
+| 12:00-13:00 | Break |
+| 13:00-14:00 | Working with Data Frames |
+| 14:00-15:30 | Importing and Inspecting Data |
+| 15:30-17:00 | Basic and Some Advanced Plotting |
+
+#### Day 2
+
+| Time        | Topic                |
+| ----------- | -------------------- |
+| 09:00-11:00 | Statistics with Continuous Outcomes |
+| 11:00-12:00 | Statistics with Categorical Outcomes |
+| 12:00-13:00 | Break |
+| 13:00-14:00 | Working with R Packages |
+| 14:00-15:00 | Programming Structures |
+| 15:00-16:00 | Rmarkdown |
+| 16:00-17:00 | Misc / Q&A |
+
 ## Course Format
 
 The course will be taught online as a live stream via the streaming platform Twitch. Once the stream goes live (around 8:45 on each course day), simply go to [this link](https://www.twitch.tv/wviechtb) to start watching.
