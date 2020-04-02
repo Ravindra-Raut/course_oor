@@ -13,7 +13,7 @@
 </tr>
 <tr>
    <td>Course Location</td>
-   <td>online / live stream</td>
+   <td>online / <a href="https://www.twitch.tv/wviechtb">live stream</a></td>
 </tr>
 <tr>
    <td>Registration</td>
@@ -75,7 +75,7 @@ You do not need to have a Twitch account to watch the stream, but if you would l
 
 You might also want to think a bit ahead of time how you will arrange your desktop while following the course. You will want to have both your browser (for following the live stream) and R/RStudio open at the same time and ideally put them side-by-side (otherwise, you will have to switch back and forth between these windows, which will become tedious rather quickly). So, unless you have a large monitor, two computers/monitors (i.e., one for the stream, one for R/RStudio) would be ideal.
 
-~~Just as an idea, you could also consider following the course together with other people as a group and set up a computer/projector to show the stream, while everybody can work on their own computer/laptop to follow along.~~ (scratch that; this is not a good idea at the moment)
+~~Just as an idea, you could also consider following the course together with other people as a group and set up a computer/projector to show the stream, while everybody can work on their own computer/laptop to follow along~~ (scratch that; this is not a good idea at the moment).
 
 ## Chat (Purpose and Rules)
 
@@ -114,10 +114,11 @@ Some other notes and frequently asked questions that may come up:
 The following are relevant links for the course itself:
 
 * [Stream at Twitch](https://www.twitch.tv/wviechtb)
-* [Chat Only](https://www.twitch.tv/popout/wviechtb/chat?popout=) (in case you have another computer showing the stream, but want to ask questions)
+* [Chat Only](https://www.twitch.tv/popout/wviechtb/chat) (in case you have another computer showing the stream, but want to ask questions)
 * [Code on Course Website](http://www.wvbauer.com/doku.php/course_oor#r_code)
 * [Code on GitHub](https://github.com/wviechtb/course_oor/tree/master/code)
 * [Code on GitLab](https://gitlab.com/wviechtb/course_oor/-/tree/master/code)
+* [Pre-Course Questionnaire](https://forms.gle/s9wwmsN83gs1jEPk6)
 
 The following are relevant links in general:
 
