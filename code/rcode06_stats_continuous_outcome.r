@@ -73,7 +73,7 @@ par(mar=c(5,9,4,2))
 
 vioplot(pss ~ marital, data=dat, horizontal=TRUE, las=1)
 
-vioplot(pss ~ marital, data=dat, horizontal=TRUE, las=1, col=rainbow(8))
+vioplot(pss ~ marital, data=dat, horizontal=TRUE, las=1, col=rainbow(8), ylab="")
 
 dev.off()
 
@@ -154,6 +154,23 @@ summary(res)
 # difference between means of all pairs of levels
 
 TukeyHSD(res)
+
+############################################################################
+
+# digression: testing all pairwise differences using Bonferroni correction
+
+#install.packages("multcomp")
+library(multcomp)
+
+# turn 'martial' into a factor variable
+dat$fmarital <- factor(dat$marital)
+
+# fit model
+res <- aov(pss ~ fmarital, data=dat)
+summary(res)
+
+# all pairwise comparisons using Bonferrroni correction
+summary(glht(res, linfct = mcp(fmarital = "Tukey")), test = adjusted("bonferroni"))
 
 ############################################################################
 
@@ -436,7 +453,7 @@ lines(newdat$age, exp(pred), lwd=3)
 
 # polynomial regression
 
-set.seed(4321)
+set.seed(1234)
 plot(jitter(dat$negaff, amount=.5), jitter(dat$pss, amount=.5), pch=19,
      xlab="Negative Affect", ylab="Perceived Stress")
 
@@ -611,5 +628,18 @@ res <- supsmu(dat$negaff, dat$pss, bass=5)
 res
 
 lines(res$x, res$y, col="orange", lwd=3)
+
+############################################################################
+
+# add an approximate 95% CI to the loess smoother
+
+plot(jitter(dat$negaff, amount=.5), jitter(dat$pss, amount=.5), pch=19,
+     xlab="Negative Affect", ylab="Perceived Stress")
+res <- loess(pss ~ negaff, data=dat)
+newdat <- data.frame(negaff = 0:50)
+pred <- predict(res, newdata=newdat, se=TRUE)
+lines(newdat$negaff, pred$fit, col="blue", lwd=3)
+lines(newdat$negaff, pred$fit-1.96*pred$se, col="blue", lty="dotted")
+lines(newdat$negaff, pred$fit+1.96*pred$se, col="blue", lty="dotted")
 
 ############################################################################
