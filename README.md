@@ -43,7 +43,7 @@ In this course, we will cover:
 * add-on packages (how to find, install, and work with them)
 * how/where to obtain help when you get stuck
 * basic programming structures (e.g., loops, if-else statements)
-* writing documents with Rmarkdown
+* writing documents with R Markdown
 * and depending on time and interest various miscellaneous topics:
   * how R 'works' (functions, classes, methods, oh my!)
   * psychometrics (reliability and factor analysis)
@@ -84,7 +84,7 @@ The course is aimed at researchers, (Master and PhD level) students, data analys
 | 12:00-13:00 | Break |
 | 13:00-14:00 | Working with R Packages |
 | 14:00-15:00 | Programming Structures |
-| 15:00-16:00 | Rmarkdown |
+| 15:00-16:00 | R Markdown |
 | 16:00-17:00 | Misc / Q&A |
 
 ## Course Format
