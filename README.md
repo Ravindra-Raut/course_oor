@@ -5,11 +5,11 @@
 <table>
 <tr>
    <td>Course Dates</td>
-   <td>2-3 April, 2020</td>
+   <td>to be announced</td>
 </tr>
 <tr>
    <td>Course Times</td>
-   <td>9:00 - 17:00 CEST (UTC/GMT+2) (<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200402T090000&p1=1307">check local time</a>)
+   <td>to be determined</td>
 </tr>
 <tr>
    <td>Course Location</td>
