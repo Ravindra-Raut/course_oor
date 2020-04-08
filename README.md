@@ -5,11 +5,11 @@
 <table>
 <tr>
    <td>Course Dates</td>
-   <td>to be announced</td>
+   <td>22-24 April, 2020</td>
 </tr>
 <tr>
    <td>Course Times</td>
-   <td>to be determined</td>
+   <td>17:00 - 22:00 CEST (UTC/GMT+2) (<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200422T17&p1=1307">check local time</a>)</td>
 </tr>
 <tr>
    <td>Course Location</td>
@@ -38,7 +38,7 @@ In this course, we will cover:
 * data inspection and manipulation
 * methods for graphing data
 * t-tests and analysis of (co)variance
-* linear regression
+* correlations and linear regression
 * categorical data analysis and logistic regression
 * add-on packages (how to find, install, and work with them)
 * how/where to obtain help when you get stuck
@@ -47,7 +47,7 @@ In this course, we will cover:
 * and depending on time and interest various miscellaneous topics:
   * how R 'works' (functions, classes, methods, oh my!)
   * psychometrics (reliability and factor analysis)
-  * merging datasets
+  * merging and reshaping datasets
   * working with 'long format' datasets
   * multilevel / mixed-effects models
   * survival analysis and Cox models
@@ -61,35 +61,41 @@ The course is aimed at researchers, (Master and PhD level) students, data analys
 
 ## Course Schedule
 
-**Note**: This schedule is tentative. The starting and ending times of the course are quite definite, but everything in between is subject to change. Also, shorter breaks are not explicitly indicated in the schedule below, but will happen throughout the days (essentially between each topic).
+**Note**: This schedule is tentative. Given the dynamics of a live and interactive course, the times are only approximations. Also, shorter breaks are not explicitly indicated in the schedule below, but will happen throughout the days (essentially between each topic).
 
 #### Day 1
 
 | Time        | Topic                |
 | ----------- | -------------------- |
-| 09:00-10:00 | Introductory Lecture |
-| 10:00-11:00 | Interacting with R |
-| 11:00-12:00 | Basic Data Structures |
-| 12:00-13:00 | Break |
-| 13:00-14:00 | Working with Data Frames |
-| 14:00-15:30 | Importing and Inspecting Data |
-| 15:30-17:00 | Basic and Some Advanced Plotting |
+| 17:00-18:00 | Introductory Lecture |
+| 18:00-19:00 | Interacting with R |
+| 19:00-20:00 | Basic Data Structures |
+| 20:00-20:30 | Break |
+| 20:30-22:00 | Working with Data Frames |
 
 #### Day 2
 
 | Time        | Topic                |
 | ----------- | -------------------- |
-| 09:00-11:00 | Statistics with Continuous Outcomes |
-| 11:00-12:00 | Statistics with Categorical Outcomes |
-| 12:00-13:00 | Break |
-| 13:00-14:00 | Working with R Packages |
-| 14:00-15:00 | Programming Structures |
-| 15:00-16:00 | R Markdown |
-| 16:00-17:00 | Misc / Q&A |
+| 17:00-18:30 | Importing and Inspecting Data |
+| 18:30-20:00 | Basic and Some Advanced Plotting |
+| 20:00-20:30 | Break |
+| 20:30-22:00 | Statistics with Continuous Outcomes |
+
+#### Day 3
+
+| Time        | Topic                |
+| ----------- | -------------------- |
+| 17:00-18:00 | Statistics with Categorical Outcomes |
+| 18:00-19:00 | Working with R Packages |
+| 19:00-20:00 | Programming Structures |
+| 20:00-20:30 | Break |
+| 20:30-21:30 | R Markdown |
+| 21:30-22:00 | Misc / Q&A |
 
 ## Course Format
 
-The course will be taught online as a live stream via the streaming platform Twitch. Once the stream goes live (around 8:45 on each course day), simply go to [this link](https://www.twitch.tv/wviechtb) to start watching.
+The course will be taught online as a live stream via the streaming platform Twitch. Once the stream goes live (around 16:45 on each course day), simply go to [this link](https://www.twitch.tv/wviechtb) to start watching.
 
 After an introductory lecture, the format of the course will be quite simple: I will provide you with R code that we will then go through step-by-step. Along the way, I'll explain how things work and answer questions as necessary. The code will be posted on the [course website](http://www.wvbauer.com/doku.php/course_oor#r_code) (and on [GitHub](https://github.com/wviechtb/course_oor/tree/master/code) and [GitLab](https://gitlab.com/wviechtb/course_oor/-/tree/master/code)). I provide the code at several locations to create some redundancy in case one of the links becomes inaccessible.
 
@@ -119,8 +125,6 @@ Any type of harassment or hateful conduct, inappropriate commenting, or disrupti
 
 Some other notes and frequently asked questions that may come up:
 
-* While I have a lot of experience teaching courses 'in person', this will be the first time I am teaching a course in this format. Please be gentle if things don't go completely smoothly the first time around.
-
 * In the 'in person' courses that I teach, I often end up troubleshooting some general computer problems for one or multiple course participants. I will not be able to do this in this course. I also cannot provide statistical support or answer questions you have about your own data analysis needs.
 
 * I reserve the option to end the course at any point (e.g., due to low attendance, technical problems). Also, depending on how things go (e.g., if there are technical problems, lots of questions), I might not be able to cover all topics planned.
@@ -130,10 +134,6 @@ Some other notes and frequently asked questions that may come up:
 * I cannot provide 'course certificates' or some other form of certification that you have participated in the course.
 
 * The stream will not be recorded. The whole point is that this is an interactive live stream, which sets it apart from online courses that use pre-recorded videos or any of the thousands of YouTube videos that teach R. If I wanted to create the latter, I would script the entire video (which is not compatible with the dynamics of an interactive live stream) and would have to do a lot of post-processing.
-
-* Related to the previous point: I understand that the course will primarily target those in timezones with small deviations from UTC/GMT (i.e., Europe and Africa). If the course is well received, I will consider repeating the course and then starting it in the afternoon (my local time), so that people from North/South America can more easily attend.
-
-* And related to the previous point: The course starts each day at 9:00 CEST (which is UCT/GMT+2). To figure out what the start time will be in your own timezone, you can go [here](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200402T090000&p1=1307).
 
 * For people affiliated with Maastricht University: You might want to consider following the [Introduction to R Course](https://www.maastrichtuniversity.nl/education/introduction-r) I teach for the university (high attendance / interest in this course shows the university the importance of keeping the course in its curriculum and you also get the benefits from 'in person' interactions).
 
@@ -146,7 +146,6 @@ The following are relevant links for the course itself:
 * [Code on Course Website](http://www.wvbauer.com/doku.php/course_oor#r_code)
 * [Code on GitHub](https://github.com/wviechtb/course_oor/tree/master/code)
 * [Code on GitLab](https://gitlab.com/wviechtb/course_oor/-/tree/master/code)
-* [Pre-Course Questionnaire](https://forms.gle/s9wwmsN83gs1jEPk6)
 
 The following are relevant links in general:
 
