@@ -125,6 +125,8 @@ Any type of harassment or hateful conduct, inappropriate commenting, or disrupti
 
 Some other notes and frequently asked questions that may come up:
 
+* During the course, we will make use of a number of add-on packages for R. Ideally, you should install these packages before the course (then you don't have to bother with installing packages during the course). You should be able to do so by running the code provided [here](https://gist.githubusercontent.com/wviechtb/eb125cb6f7c706982f72e5872312fbba/raw/5b89a7947500c6d6ac2411d2b21452ae60534523/install_packages.r) in R (just open up R and copy-paste the library() lines one by one).
+
 * In the 'in person' courses that I teach, I often end up troubleshooting some general computer problems for one or multiple course participants. I will not be able to do this in this course. I also cannot provide statistical support or answer questions you have about your own data analysis needs.
 
 * I reserve the option to end the course at any point (e.g., due to low attendance, technical problems). Also, depending on how things go (e.g., if there are technical problems, lots of questions), I might not be able to cover all topics planned.
@@ -134,6 +136,8 @@ Some other notes and frequently asked questions that may come up:
 * I cannot provide 'course certificates' or some other form of certification that you have participated in the course.
 
 * The stream will not be recorded. The whole point is that this is an interactive live stream, which sets it apart from online courses that use pre-recorded videos or any of the thousands of YouTube videos that teach R. If I wanted to create the latter, I would script the entire video (which is not compatible with the dynamics of an interactive live stream) and would have to do a lot of post-processing.
+
+* If the stream lags/stutters, try reloading the stream (just refresh the page) or reduce the stream resolution (click on the little gear icon at the bottom right of the stream window, select 'Quality', and try 720p or 420p; you could also try disabling 'Low Latency' under 'Advanced').
 
 * For people affiliated with Maastricht University: You might want to consider following the [Introduction to R Course](https://www.maastrichtuniversity.nl/education/introduction-r) I teach for the university (high attendance / interest in this course shows the university the importance of keeping the course in its curriculum and you also get the benefits from 'in person' interactions).
 
