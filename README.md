@@ -145,11 +145,9 @@ Some other notes and frequently asked questions that may come up:
 
 The following are relevant links for the course itself:
 
-* [Stream at Twitch](https://www.twitch.tv/wviechtb)
+* [Stream at Twitch](https://www.twitch.tv/wviechtb) (where to go to watch the stream once it goes live)
 * [Chat Only](https://www.twitch.tv/popout/wviechtb/chat) (in case you have another computer showing the stream, but want to ask questions)
-* [Code on Course Website](http://www.wvbauer.com/doku.php/course_oor#r_code)
-* [Code on GitHub](https://github.com/wviechtb/course_oor/tree/master/code)
-* [Code on GitLab](https://gitlab.com/wviechtb/course_oor/-/tree/master/code)
+* [Course Website](http://www.wvbauer.com/doku.php/course_oor) (the 'official' course website, but this repo contains the same materials)
 
 The following are relevant links in general:
 
