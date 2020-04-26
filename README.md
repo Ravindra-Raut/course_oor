@@ -5,7 +5,7 @@
 <table>
 <tr>
    <td>Course Dates</td>
-   <td>22-24 April, 2020</td>
+   <td>22-24 April, 2020 + one extra day (30 April)</td>
 </tr>
 <tr>
    <td>Course Times</td>
@@ -61,7 +61,7 @@ The course is aimed at researchers, (Master and PhD level) students, data analys
 
 ## Course Schedule
 
-**Note**: This schedule is tentative. Given the dynamics of a live and interactive course, the times are only approximations. Also, shorter breaks are not explicitly indicated in the schedule below, but will happen throughout the days (essentially between each topic).
+**Note**: This schedule is tentative. Given the dynamics of a live and interactive course, the times are only approximations. Also, shorter breaks are not explicitly indicated in the schedule below, but will happen throughout the days as needed.
 
 #### Day 1
 
@@ -77,21 +77,28 @@ The course is aimed at researchers, (Master and PhD level) students, data analys
 
 | Time        | Topic                |
 | ----------- | -------------------- |
-| 17:00-18:30 | Importing and Inspecting Data |
-| 18:30-20:00 | Basic and Some Advanced Plotting |
+| 17:00-19:00 | Importing and Inspecting Data |
+| 19:00-20:00 | Basic and Some Advanced Plotting |
 | 20:00-20:30 | Break |
-| 20:30-22:00 | Statistics with Continuous Outcomes |
+| 20:30-22:00 | Basic and Some Advanced Plotting |
 
 #### Day 3
 
 | Time        | Topic                |
 | ----------- | -------------------- |
-| 17:00-18:00 | Statistics with Categorical Outcomes |
-| 18:00-19:00 | Working with R Packages |
-| 19:00-20:00 | Programming Structures |
+| 17:00-20:00 | Statistics with Continuous Outcomes |
 | 20:00-20:30 | Break |
-| 20:30-21:30 | R Markdown |
-| 21:30-22:00 | Misc / Q&A |
+| 20:30-22:00 | Statistics with Categorical Outcomes |
+
+#### Day 4
+
+| Time        | Topic                |
+| ----------- | -------------------- |
+| 17:00-18:00 | Working with R Packages |
+| 18:00-19:00 | Programming Structures |
+| 19:00-20:00 | R Markdown |
+| 20:00-20:30 | Break |
+| 20:30-22:00 | Misc / Q&A |
 
 ## Course Format
 
