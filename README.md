@@ -5,7 +5,7 @@
 <table>
 <tr>
    <td>Course Dates</td>
-   <td>22-24 April, 2020 + one extra day (30 April)</td>
+   <td>22-24 April, 2020 + **one extra day (30 April)**</td>
 </tr>
 <tr>
    <td>Course Times</td>
