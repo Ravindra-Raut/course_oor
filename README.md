@@ -132,7 +132,7 @@ Any type of harassment or hateful conduct, inappropriate commenting, or disrupti
 
 Some other notes and frequently asked questions that may come up:
 
-* During the course, we will make use of a number of add-on packages for R. Ideally, you should install these packages before the course (then you don't have to bother with installing packages during the course). You should be able to do so by running the code provided [here](https://gist.githubusercontent.com/wviechtb/eb125cb6f7c706982f72e5872312fbba/raw/1fec0fea6216d162319822f31d7d74bfcad52e07/install_packages.r) in R (just open up R and copy-paste the library() lines one by one).
+* During the course, we will make use of a number of add-on packages for R. Ideally, you should install these packages before the course (then you don't have to bother with installing packages during the course). You should be able to do so by running the code provided [here](https://gist.githubusercontent.com/wviechtb/eb125cb6f7c706982f72e5872312fbba/raw/1fec0fea6216d162319822f31d7d74bfcad52e07/install_packages.r) in R (just open up R and copy-paste the `install.packages()` lines one by one).
 
 * In the 'in person' courses that I teach, I often end up troubleshooting some general computer problems for one or multiple course participants. I will not be able to do this in this course. I also cannot provide statistical support or answer questions you have about your own data analysis needs.
 
