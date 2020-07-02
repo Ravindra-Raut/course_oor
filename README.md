@@ -91,7 +91,7 @@ The course is aimed at researchers, (Master and PhD level) students, data analys
 | 20:00-21:00 | Statistics with Categorical Outcomes |
 | 21:00-22:00 | Working with R Packages |
 
-Further course dates / streams will happen as indicated here: [Live Streams](http://www.wvbauer.com/doku.php/live_streams) (where I will cover topics like programming structures, writing documents with R Markdown, and various miscellaneous topics). In essence, at that point the course will be open-ended, running as long as there is interest and we don't run out of topics (which is rather unlikely).
+Further course dates / streams will happen as indicated here: [Live Streams](http://www.wvbauer.com/doku.php/live_streams) (where I will cover topics such as programming structures, writing documents with R Markdown, and various miscellaneous topics). In essence, at that point the course will be open-ended, running as long as there is interest and we don't run out of topics (which is rather unlikely).
 
 ## Course Format
 
