@@ -5,11 +5,11 @@
 <table>
 <tr>
    <td>Course Dates</td>
-   <td>22-24 April, 2020 + <b>one extra day (30 April)</b></td>
+   <td>16-18 September, 2020 + further dates (see course schedule)</td>
 </tr>
 <tr>
    <td>Course Times</td>
-   <td>17:00 - 22:00 CEST (UTC/GMT+2) (<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200422T17&p1=1307">check local time</a>)</td>
+   <td>17:00 - 22:00 CEST (<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200916T17&p1=1307">check local time</a>)</td>
 </tr>
 <tr>
    <td>Course Location</td>
@@ -86,19 +86,12 @@ The course is aimed at researchers, (Master and PhD level) students, data analys
 
 | Time        | Topic                |
 | ----------- | -------------------- |
-| 17:00-20:00 | Statistics with Continuous Outcomes |
-| 20:00-20:30 | Break |
-| 20:30-22:00 | Statistics with Categorical Outcomes |
+| 17:00-19:30 | Statistics with Continuous Outcomes |
+| 19:30-20:00 | Break |
+| 20:00-21:00 | Statistics with Categorical Outcomes |
+| 21:00-22:00 | Working with R Packages |
 
-#### Day 4
-
-| Time        | Topic                |
-| ----------- | -------------------- |
-| 17:00-18:00 | Working with R Packages |
-| 18:00-19:00 | Programming Structures |
-| 19:00-20:00 | R Markdown |
-| 20:00-20:30 | Break |
-| 20:30-22:00 | Misc / Q&A |
+Further course dates / streams will happen as indicated here: [Live Streams](http://www.wvbauer.com/doku.php/live_streams) (where I will cover topics like programming structures, writing documents with R Markdown, and various miscellaneous topics). In essence, at that point the course will be open-ended, running as long as there is interest and we don't run out of topics (which is rather unlikely).
 
 ## Course Format
 
@@ -108,7 +101,7 @@ After an introductory lecture, the format of the course will be quite simple: I 
 
 ## How to Prepare for the Course
 
-You will need a computer with the current version of R installed. You can download R from the [Comprehensive R Archive Network](https://cran.r-project.org/) (CRAN). Follow the appropriate "Download R" link depending on your operating system (OS) and follow the instructions for downloading and installing R. If you already have R installed, please check that it is the current (or a relatively current) version (you can check what the 'latest release' of R is by going to [CRAN](https://cran.r-project.org/)). If not, please update.
+You will need a computer with the current version of R installed. You can download R from the [Comprehensive R Archive Network](https://cran.r-project.org/) (CRAN). Follow the appropriate "Download R" link depending on your operating system (OS) and follow the instructions for downloading and installing R. If you already have R installed, please check that it is the current version (you can check what the 'latest release' of R is by going to [CRAN](https://cran.r-project.org/) and then compare this with the version shown when you start R). If not, please update.
 
 Although not strictly necessary, it will be useful to also install an integrated development environment (IDE) for R. A popular choice these days is RStudio. So, unless you already have a different setup, download the appropriate installer of RStudio for your OS from [here](https://rstudio.com/products/rstudio/download/#download) and install in the usual manner.
 
@@ -144,9 +137,9 @@ Some other notes and frequently asked questions that may come up:
 
 * The stream will not be recorded. The whole point is that this is an interactive live stream, which sets it apart from online courses that use pre-recorded videos or any of the thousands of YouTube videos that teach R. If I wanted to create the latter, I would script the entire video (which is not compatible with the dynamics of an interactive live stream) and would have to do a lot of post-processing.
 
-* If the stream lags/stutters, try reloading the stream (just refresh the page) or reduce the stream resolution (click on the little gear icon at the bottom right of the stream window, select 'Quality', and try 720p or 420p; you could also try disabling 'Low Latency' under 'Advanced').
+* If the stream lags/stutters, try reloading the stream (just refresh the page) or reduce the stream resolution (click on the little gear icon at the bottom right of the stream window, select 'Quality', and try 720p or 420p; you could also try disabling 'Low Latency' under 'Advanced'). Note that the option to reduce the stream resolution might not be available (which is not something I have control over, although there are ways to make this option available once the stream is running for a bit).
 
-* For people affiliated with Maastricht University: You might want to consider following the [Introduction to R Course](https://www.maastrichtuniversity.nl/education/introduction-r) I teach for the university (high attendance / interest in this course shows the university the importance of keeping the course in its curriculum and you also get the benefits from 'in person' interactions).
+* For people affiliated with Maastricht University: You might want to consider following the [Introduction to R Course](https://www.maastrichtuniversity.nl/education/course/introduction-r) I teach for the university (high attendance / interest in this course shows the university the importance of keeping the course in its curriculum and you also get the benefits from 'in person' interactions).
 
 ## Relevant Links
 
@@ -155,7 +148,6 @@ The following are relevant links for the course itself:
 * [Stream at Twitch](https://www.twitch.tv/wviechtb) (where to go to watch the stream once it goes live)
 * [Chat Only](https://www.twitch.tv/popout/wviechtb/chat) (in case you have another computer showing the stream, but want to ask questions)
 * [Course Website](http://www.wvbauer.com/doku.php/course_oor) (the 'official' course website, but this repo contains the same materials)
-* [Pre-Course Questionnaire](https://forms.gle/tZJDjYHYonrpketCA)
 
 The following are relevant links in general:
 
